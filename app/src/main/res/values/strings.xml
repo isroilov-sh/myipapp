@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My IP</string>
+    <string name="my_ip">Мой IP: </string>
+    <string name="my_ip_button">Мой IP</string>
+</resources>
